@@ -33,6 +33,8 @@ I'm a passionate Full-Stack Developer with a strong foundation in Java (Spring B
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
       <br><strong>MySQL</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       <br><strong>Docker</strong>
@@ -41,19 +43,9 @@ I'm a passionate Full-Stack Developer with a strong foundation in Java (Spring B
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br><strong>Git</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br><strong>HTML5</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br><strong>CSS3</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="Tailwind CSS" />
-      <br><strong>Tailwind CSS</strong>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      <br><strong>Postman</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
@@ -62,10 +54,6 @@ I'm a passionate Full-Stack Developer with a strong foundation in Java (Spring B
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
       <br><strong>AWS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-    </td>
-    <td align="center" height="108" width="108">
     </td>
   </tr>
 </table>
