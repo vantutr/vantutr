@@ -2,7 +2,7 @@
 
 I'm a passionate Full-Stack Developer with a strong foundation in Java (Spring Boot) and ReactJS. I have recently completed an intensive coding bootcamp and am excited to apply my skills to build high-quality, scalable web applications.
 
-- 🔭 I’m currently looking for a full-time **Fresher Software Engineer** position.
+- 🔭 I’m currently looking for a full-time **Software Engineer** position.
 - 🌱 I’m currently deepening my knowledge in **System Design**, **Docker**, and cloud services like **AWS**.
 - 🎯 My long-term goal is to grow from a Software Engineer into a **Tech Lead**.
 - 📫 How to reach me: **tranvantu06042001@gmail.com**
